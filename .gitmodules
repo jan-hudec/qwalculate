@@ -1,0 +1,3 @@
+[submodule "modules/cln"]
+	path = modules/cln
+	url = git@github.com:jan-hudec/cln-em.git
